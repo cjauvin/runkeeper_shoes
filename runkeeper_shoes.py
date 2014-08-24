@@ -64,7 +64,7 @@ def predict():
         <form action="predict" method="get">
         You bought your running shoes on: <input type="date" name="bought"><br>
         Only use date after (optional, if not set will use everything): <input type="date" name="start"><br>
-        <input type="submit">
+        <input type="Predict!">
         </form>
     </body>
 </html>
