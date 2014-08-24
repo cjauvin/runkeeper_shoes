@@ -1,4 +1,4 @@
 runkeeper_shoes
 ===============
 
-Shoe replacement prediction based on RunKeeper data
+Shoe replacement prediction mini-app, based on RunKeeper data.
